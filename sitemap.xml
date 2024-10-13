@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>https://wahrli.ch/categories/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://wahrli.ch/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/categories/identity/</loc>
+    <loc>https://wahrli.ch/categories/identity/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/post/</loc>
+    <loc>https://wahrli.ch/post/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/categories/saas/</loc>
+    <loc>https://wahrli.ch/categories/saas/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/post/there-is-no-perimeter/</loc>
+    <loc>https://wahrli.ch/post/there-is-no-perimeter/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/categories/zero-trust/</loc>
+    <loc>https://wahrli.ch/categories/zero-trust/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/post/2024-year-of-the-supply-chain-attack/</loc>
+    <loc>https://wahrli.ch/post/2024-year-of-the-supply-chain-attack/</loc>
     <lastmod>2024-09-23T14:19:48+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/categories/supply-chain/</loc>
+    <loc>https://wahrli.ch/categories/supply-chain/</loc>
     <lastmod>2024-09-23T14:19:48+10:00</lastmod>
   </url><url>
-    <loc>https://localhost:1313/elements/</loc>
+    <loc>https://wahrli.ch/elements/</loc>
   </url><url>
-    <loc>https://localhost:1313/about/</loc>
+    <loc>https://wahrli.ch/about/</loc>
   </url><url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>https://wahrli.ch/tags/</loc>
   </url>
 </urlset>
