@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saas on Gene Wahrlich</title>
+    <link>https://localhost:1313/categories/saas/</link>
+    <description>Recent content in Saas on Gene Wahrlich</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2024 11:25:54 +1000</lastBuildDate>
+    <atom:link href="https://localhost:1313/categories/saas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There is no perimeter</title>
+      <link>https://localhost:1313/post/there-is-no-perimeter/</link>
+      <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
+      <guid>https://localhost:1313/post/there-is-no-perimeter/</guid>
+      <description>&lt;h2 id=&#34;let-me-tell-you-a-story&#34;&gt;Let me tell you a story&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

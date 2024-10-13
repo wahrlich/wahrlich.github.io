@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gene Wahrlich</title>
+    <link>https://localhost:1313/post/</link>
+    <description>Recent content in Posts on Gene Wahrlich</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2024 11:25:54 +1000</lastBuildDate>
+    <atom:link href="https://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There is no perimeter</title>
+      <link>https://localhost:1313/post/there-is-no-perimeter/</link>
+      <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
+      <guid>https://localhost:1313/post/there-is-no-perimeter/</guid>
+      <description>&lt;h2 id=&#34;let-me-tell-you-a-story&#34;&gt;Let me tell you a story&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024: Year of the supply chain attack?</title>
+      <link>https://localhost:1313/post/2024-year-of-the-supply-chain-attack/</link>
+      <pubDate>Mon, 23 Sep 2024 14:19:48 +1000</pubDate>
+      <guid>https://localhost:1313/post/2024-year-of-the-supply-chain-attack/</guid>
+      <description>&lt;h2 id=&#34;exploding-pagers&#34;&gt;Exploding pagers&lt;/h2&gt;&#xA;&lt;p&gt;The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history. This attack, along with the .mobi WHOIS debacle and the faulty Crowdstrike update, got me thinking quite a lot about supply chain attack surface. We all have these vulnerabilities, and there&amp;rsquo;s very little we can do in the way of mitigation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
