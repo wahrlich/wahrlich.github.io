@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wahrli.ch/</loc>
-    <lastmod>2024-10-18T13:13:06+10:00</lastmod>
+    <lastmod>2024-10-25T21:44:48+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/</loc>
-    <lastmod>2024-10-18T13:13:06+10:00</lastmod>
+    <lastmod>2024-10-25T21:44:48+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/attack-modeling/</loc>
+    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/post/attack-modeling/</loc>
+    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/categories/</loc>
-    <lastmod>2024-10-18T06:06:40+10:00</lastmod>
+    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/ssdlc/</loc>
+    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/post/threat-modeling-is-dead/</loc>
+    <lastmod>2024-10-22T17:58:58+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/categories/requirements/</loc>
     <lastmod>2024-10-18T06:06:40+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/ssdlc-security-requirements/</loc>
-    <lastmod>2024-10-18T06:06:40+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/categories/ssdlc/</loc>
     <lastmod>2024-10-18T06:06:40+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/categories/identity/</loc>
@@ -37,8 +46,6 @@
   </url><url>
     <loc>https://wahrli.ch/categories/supply-chain/</loc>
     <lastmod>2024-09-23T14:19:48+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/elements/</loc>
   </url><url>
     <loc>https://wahrli.ch/about/</loc>
   </url><url>

@@ -6,10 +6,24 @@
     <description>Recent content on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Oct 2024 06:06:40 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 14:56:02 +1000</lastBuildDate>
     <atom:link href="https://wahrli.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Security Requirements</title>
+      <title>Attack modeling a forgotten password system</title>
+      <link>https://wahrli.ch/post/attack-modeling/</link>
+      <pubDate>Wed, 23 Oct 2024 14:56:02 +1000</pubDate>
+      <guid>https://wahrli.ch/post/attack-modeling/</guid>
+      <description>&lt;p&gt;This Attack Model maps potential attack vectors in a typical forgotten password system. The goal is to catalogue exploitable attack vectors along with the related security controls.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Threat modeling is dead</title>
+      <link>https://wahrli.ch/post/threat-modeling-is-dead/</link>
+      <pubDate>Tue, 22 Oct 2024 17:58:58 +1000</pubDate>
+      <guid>https://wahrli.ch/post/threat-modeling-is-dead/</guid>
+      <description>&lt;h2 id=&#34;stride-has-not-aged-well&#34;&gt;STRIDE has not aged well&lt;/h2&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Security requirements</title>
       <link>https://wahrli.ch/post/ssdlc-security-requirements/</link>
       <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
       <guid>https://wahrli.ch/post/ssdlc-security-requirements/</guid>
@@ -28,13 +42,6 @@
       <pubDate>Mon, 23 Sep 2024 14:19:48 +1000</pubDate>
       <guid>https://wahrli.ch/post/2024-year-of-the-supply-chain-attack/</guid>
       <description>&lt;h2 id=&#34;exploding-pagers&#34;&gt;Exploding pagers&lt;/h2&gt;&#xA;&lt;p&gt;The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history. This attack, along with the .mobi WHOIS debacle and the faulty Crowdstrike update, got me thinking quite a lot about supply chain attack surface. We all have these vulnerabilities, and there&amp;rsquo;s very little we can do in the way of mitigation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>https://wahrli.ch/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wahrli.ch/elements/</guid>
-      <description>&lt;h4 id=&#34;heading-example&#34;&gt;Heading example&lt;/h4&gt;&#xA;&lt;p&gt;Here is example of hedings. You can use this heading by following markdownify rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi</title>

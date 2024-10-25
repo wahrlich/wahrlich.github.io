@@ -6,20 +6,27 @@
     <description>Recent content in Categories on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Oct 2024 06:06:40 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 14:56:02 +1000</lastBuildDate>
     <atom:link href="https://wahrli.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Requirements</title>
-      <link>https://wahrli.ch/categories/requirements/</link>
-      <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
-      <guid>https://wahrli.ch/categories/requirements/</guid>
+      <title>Attack Modeling</title>
+      <link>https://wahrli.ch/categories/attack-modeling/</link>
+      <pubDate>Wed, 23 Oct 2024 14:56:02 +1000</pubDate>
+      <guid>https://wahrli.ch/categories/attack-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssdlc</title>
       <link>https://wahrli.ch/categories/ssdlc/</link>
-      <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
+      <pubDate>Wed, 23 Oct 2024 14:56:02 +1000</pubDate>
       <guid>https://wahrli.ch/categories/ssdlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Requirements</title>
+      <link>https://wahrli.ch/categories/requirements/</link>
+      <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
+      <guid>https://wahrli.ch/categories/requirements/</guid>
       <description></description>
     </item>
     <item>
