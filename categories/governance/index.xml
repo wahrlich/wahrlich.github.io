@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on Gene Wahrlich</title>
+    <link>https://wahrli.ch/categories/governance/</link>
+    <description>Recent content in Governance on Gene Wahrlich</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2024 21:24:48 +1000</lastBuildDate>
+    <atom:link href="https://wahrli.ch/categories/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who is responsible for security?</title>
+      <link>https://wahrli.ch/post/who-is-responsible-for-security/</link>
+      <pubDate>Sat, 26 Oct 2024 21:24:48 +1000</pubDate>
+      <guid>https://wahrli.ch/post/who-is-responsible-for-security/</guid>
+      <description>&lt;p&gt;Imagine the late 90s&amp;hellip; Celine Dion is playing on the radio, the waterfall model is de rigueur, pentesting is not a career choice, and &amp;lsquo;cyber&amp;rsquo; means &lt;em&gt;something else&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

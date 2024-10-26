@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wahrli.ch/categories/</loc>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
+  </url><url>
     <loc>https://wahrli.ch/</loc>
-    <lastmod>2024-10-25T21:44:48+10:00</lastmod>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/governance/</loc>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/</loc>
-    <lastmod>2024-10-25T21:44:48+10:00</lastmod>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/ssdlc/</loc>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/post/who-is-responsible-for-security/</loc>
+    <lastmod>2024-10-26T21:24:48+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/categories/attack-modeling/</loc>
     <lastmod>2024-10-23T14:56:02+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/attack-modeling/</loc>
-    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/categories/</loc>
-    <lastmod>2024-10-23T14:56:02+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/categories/ssdlc/</loc>
     <lastmod>2024-10-23T14:56:02+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/threat-modeling-is-dead/</loc>
