@@ -20,7 +20,7 @@
       <link>https://wahrli.ch/post/threat-modeling-is-dead/</link>
       <pubDate>Tue, 22 Oct 2024 17:58:58 +1000</pubDate>
       <guid>https://wahrli.ch/post/threat-modeling-is-dead/</guid>
-      <description>&lt;h2 id=&#34;stride-has-not-aged-well&#34;&gt;STRIDE has not aged well&lt;/h2&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
+      <description>&lt;p&gt;STRIDE has not aged well&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

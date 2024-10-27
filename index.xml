@@ -13,7 +13,7 @@
       <link>https://wahrli.ch/post/who-is-responsible-for-security/</link>
       <pubDate>Sat, 26 Oct 2024 21:24:48 +1000</pubDate>
       <guid>https://wahrli.ch/post/who-is-responsible-for-security/</guid>
-      <description>&lt;p&gt;Imagine the late 90s&amp;hellip; Celine Dion is playing on the radio, the waterfall model is de rigueur, pentesting is not a career choice, and &amp;lsquo;cyber&amp;rsquo; means &lt;em&gt;something else&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Everyone? I&amp;rsquo;m not so sure&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Imagine the early 2000s&amp;hellip; Britney Spears is playing on the radio, the waterfall model is de rigueur, pentesting is not a career choice, OWASP was in its nascent stages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Attack modeling a forgotten password system</title>
@@ -27,28 +27,28 @@
       <link>https://wahrli.ch/post/threat-modeling-is-dead/</link>
       <pubDate>Tue, 22 Oct 2024 17:58:58 +1000</pubDate>
       <guid>https://wahrli.ch/post/threat-modeling-is-dead/</guid>
-      <description>&lt;h2 id=&#34;stride-has-not-aged-well&#34;&gt;STRIDE has not aged well&lt;/h2&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
+      <description>&lt;p&gt;STRIDE has not aged well&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security requirements</title>
       <link>https://wahrli.ch/post/ssdlc-security-requirements/</link>
       <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
       <guid>https://wahrli.ch/post/ssdlc-security-requirements/</guid>
-      <description>&lt;h2 id=&#34;the-foundation-of-ssdlc&#34;&gt;The foundation of SSDLC&lt;/h2&gt;&#xA;&lt;p&gt;A few years ago I was brought in to help with security for a project at a large retailer in the UK. They were building out some web APIs that listed which products a customer might want to buy, based on previous orders they&amp;rsquo;d made. One of the first questions I asked was &amp;ldquo;How are we managing GDPR requirements?&amp;rdquo;. A look of concern came across everyone&amp;rsquo;s faces. The team had done a lot of work on setting up functional requirements and tests but didn&amp;rsquo;t know security and regulatory requirements were a thing. A couple weeks of rejigging the architecture and a few late nights later, the API was updated to include &amp;ldquo;right to be forgotten&amp;rdquo; functionality.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A few years ago I was brought in to help with security for a project at a large retailer in the UK. They were building out some web APIs that listed which products a customer might want to buy, based on previous orders they&amp;rsquo;d made. One of the first questions I asked was &amp;ldquo;How are we managing GDPR requirements?&amp;rdquo;. A look of concern came across everyone&amp;rsquo;s faces. The team had done a lot of work on setting up functional requirements and tests but didn&amp;rsquo;t know security and regulatory requirements were a thing. A couple weeks of rejigging the architecture and a few late nights later, the API was updated to include &amp;ldquo;right to be forgotten&amp;rdquo; functionality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>There is no perimeter</title>
       <link>https://wahrli.ch/post/there-is-no-perimeter/</link>
       <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
       <guid>https://wahrli.ch/post/there-is-no-perimeter/</guid>
-      <description>&lt;h2 id=&#34;let-me-tell-you-a-story&#34;&gt;Let me tell you a story&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let me tell you a story&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024: Year of the supply chain attack?</title>
       <link>https://wahrli.ch/post/2024-year-of-the-supply-chain-attack/</link>
       <pubDate>Mon, 23 Sep 2024 14:19:48 +1000</pubDate>
       <guid>https://wahrli.ch/post/2024-year-of-the-supply-chain-attack/</guid>
-      <description>&lt;h2 id=&#34;exploding-pagers&#34;&gt;Exploding pagers&lt;/h2&gt;&#xA;&lt;p&gt;The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history. This attack, along with the .mobi WHOIS debacle and the faulty Crowdstrike update, got me thinking quite a lot about supply chain attack surface. We all have these vulnerabilities, and there&amp;rsquo;s very little we can do in the way of mitigation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi</title>

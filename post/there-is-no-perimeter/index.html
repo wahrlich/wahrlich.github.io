@@ -213,12 +213,12 @@
             
           </ul>
           <div class="content text-left">
-            <h2 id="let-me-tell-you-a-story">Let me tell you a story&hellip;</h2>
+            <p>Let me tell you a story&hellip;</p>
 <p>A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.</p>
 <p>That assumption came back to bite them. I was hired to do a pentest of some new APIs and I realised quickly that they were themselves talking to some other, older APIs that had been running the company’s core business for the past 20 years. Since I was inside the trust boundary, I could access the old APIs directly and bypass the authentication and authorisation enforced by the new APIs.</p>
 <p>Those old APIs were COBOL - which may give away that we’re talking about a bank - and I was able to use Cross-Site Request Forgery (CSRF) to have any of their customers transfer all funds out of their account and in to my account. That was the wake up call they needed.</p>
 <p>Fast forward to today, where everyone is remote, apps live in the cloud, and every device has WiFi, it’s impossible to rely on the idea of a trusted internal network like that bank did. This is where Zero Trust comes in, and it’s been a game changer.</p>
-<h2 id="there-is-no-perimeter">There is no perimeter</h2>
+<h2 id="identity-is-the-new-battleground">Identity is the new battleground</h2>
 <p>Today’s networks are borderless. I mostly work from home (for now, ha), my coworkers are scattered across the globe, and everyone is accessing company apps on personal devices. This isn’t just a temporary thing; it’s the way work happens now. So, trying to create a trusted internal network is like putting up a fence around an empty field. The real action - and exploitation - is happening elsewhere.</p>
 <p>One of the big shifts we’ve all had to embrace is that it’s not about the network anymore; it’s about identity. Every time I want to access company resources, whether I’m on my phone, laptop, or some other device, I have to prove who I am. I log in through an Identity Provider (IdP), which makes sure I’m actually me.</p>
 <p>There has been much hoo-ha about Identity being the new perimeter, but I don’t think that’s accurate. I don’t think there is a perimeter at all.</p>
@@ -287,7 +287,8 @@
           </div>
           <div class="card-body px-0 pb-1">
             <h3><a class="post-title post-title-sm" href="https://wahrli.ch/post/who-is-responsible-for-security/">Who Is Responsible for Security?</a></h3>
-            <p class="mb-0 small">Imagine the late 90s… Celine Dion is playing on the radio, the waterfall model …</p>
+            <p class="mb-0 small">Everyone? I’m not so sure…
+Imagine the early 2000s… Britney Spears is playing on …</p>
             <div class="content">
               <a class="read-more-btn" href="/post/who-is-responsible-for-security/"></a>
             </div>
@@ -323,7 +324,8 @@
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">Threat modeling is dead</h3>
-            <p class="mb-0 small">STRIDE has not aged well I’ve seen first-hand the …</p>
+            <p class="mb-0 small">STRIDE has not aged well…
+I’ve seen first-hand the …</p>
           </div>
         </a>
         
@@ -339,7 +341,7 @@
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">Security requirements</h3>
-            <p class="mb-0 small">The foundation of SSDLC A few years ago I was …</p>
+            <p class="mb-0 small">A few years ago I was brought in to help with …</p>
           </div>
         </a>
         
@@ -350,12 +352,12 @@
           
           
           
-          <img loading="lazy" decoding="async" src="/images/post/supply-chain_hu17094407057873264566.webp" alt="Post Thumbnail" class="w-100" width="80" height="80">
+          <img loading="lazy" decoding="async" src="/images/post/supply-chain_hu8868550977201013386.webp" alt="Post Thumbnail" class="w-100" width="80" height="80">
           
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">2024: Year of the supply chain attack?</h3>
-            <p class="mb-0 small">Exploding pagers The news of Hezbollah agents …</p>
+            <p class="mb-0 small">The news of Hezbollah agents being targeted with …</p>
           </div>
         </a>
         

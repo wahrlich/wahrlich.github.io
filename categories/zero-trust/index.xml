@@ -13,7 +13,7 @@
       <link>https://wahrli.ch/post/there-is-no-perimeter/</link>
       <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
       <guid>https://wahrli.ch/post/there-is-no-perimeter/</guid>
-      <description>&lt;h2 id=&#34;let-me-tell-you-a-story&#34;&gt;Let me tell you a story&amp;hellip;&lt;/h2&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Let me tell you a story&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

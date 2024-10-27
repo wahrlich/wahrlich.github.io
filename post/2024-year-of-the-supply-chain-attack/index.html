@@ -178,7 +178,7 @@
           
           
           
-          <img loading="lazy" decoding="async" src="/images/post/supply-chain_hu5849587205869821413.webp" alt="Post Thumbnail" class="w-100" width="850" height="486">
+          <img loading="lazy" decoding="async" src="/images/post/supply-chain_hu7141702612797896371.webp" alt="Post Thumbnail" class="w-100" width="850" height="567">
           
           
           
@@ -207,10 +207,10 @@
             
           </ul>
           <div class="content text-left">
-            <h2 id="exploding-pagers">Exploding pagers</h2>
-<p>The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history. This attack, along with the .mobi WHOIS debacle and the faulty Crowdstrike update, got me thinking quite a lot about supply chain attack surface. We all have these vulnerabilities, and there&rsquo;s very little we can do in the way of mitigation.</p>
+            <p>The news of Hezbollah agents being targeted with exploding pagers and UHF radios was a shock to us all. Whilst this type of attack was always a possibility in theory, seeing it occur in practice was perhaps the most visually horrific instance of a supply chain attack in recent history.</p>
+<p>This attack, along with the .mobi WHOIS debacle and the faulty Crowdstrike update, got me thinking quite a lot about supply chain attack surface. We all have these vulnerabilities, and there&rsquo;s very little we can do in the way of mitigation.</p>
 <h2 id="its-a-matter-of-trust">Its a matter of trust</h2>
-<p>A supply chain attack is one where a target organisation or individual&rsquo;s external suppliers are compromised with the intention to attack the target. Suppliers can come in many forms. For Hezbollah, it was the hardware manufacturers, but it could also be software dependencies, saas apps, internet infrastructure, service suppliers, or any other entity with a privileged connection to you or your business.</p>
+<p>A supply chain attack is one where a target organisation or individual&rsquo;s external suppliers are compromised with the intention to attack the target. Suppliers can come in many forms. For Hezbollah, it was the hardware manufacturers, but it could also be software dependencies, SaaS apps, internet infrastructure, service suppliers, or any other entity with a privileged connection to you or your business.</p>
 <p>You trust suppliers of all forms to provide a product or service free from vulnerabilities. In some cases there are contracts to set limits on damages - I know I had to buy some hefty insurance before pentesting HFT firms in the past. In other cases there is no contract - trust is given for no apparent reason. Why would you have any reason to doubt the company supplying your office desks?</p>
 <p>The risk of supply chain attacks should be included in any threat model where relevant. For most of us, although the likelihood of exploding devices is approaching zero, the impact is so high that we should perhaps pay more attention to the mundane suppliers. Those are the ones that will be the easiest for adversaries to compromise and remain unnoticed.</p>
 <h2 id="six-attack-vectors-in-supply-chains">Six attack vectors in supply chains</h2>
@@ -219,12 +219,12 @@
 <p>WatchTowr <a href="https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/">recently found</a> that they could register an outdated domain used by the .mobi registry to take over the TLD. When the .mobi TLD became available, the registry switched their WHOIS server from whois.dotmobiregistry.net to whois.mic.mobi. Their error was allowing their .net domain to lapse, which makes it registerable again by anyone - in this case, WatchTowr researchers. They found that many companies - including TLS Certificate Authorities (CAs) - relied on WHOIS data as an authoritative source.</p>
 <p>The .mobi registry has learnt a hard lesson - don&rsquo;t let important domain names lapse - ever. But really the victims of this attack are far removed from the regsitry. The victim is not the registry, or the CAs, or the businesses who relied on those CAs. The victims are the users of those encrypted websites, ordinary people like you and me.</p>
 <p>How could we as users have mitigated the risk of this attack? Honestly there&rsquo;s not much we can do. Its a matter of trust.</p>
-<h3 id="2-compromised-saas-app">2. Compromised saas app</h3>
-<p>We all use so many saas apps in business that reliance on them has become a serious security concern. There are risks around data ownership, identity and access management, regulatory issues, vendor security standards, data loss, shadow IT, and incident response complexity. Using saas apps effectively widens your trust boundary to include those companys as well as your own.</p>
-<p>This greatly increases attack surface for your business, whilst making security controls more difficult to deploy. One of my favourite preventative controls is pentesting and red teaming, but both of these can be very difficult to perform when saas apps are involved because of legal issues testing components that don&rsquo;t belong to your business.</p>
-<p>A recent example of a vulnerable saas app that affected many users is the <a href="https://www.kiteworks.com/cybersecurity-risk-management/dropbox-sign-breach">2024 DropBox Sign</a> issue. A malicious actor gained access to a DropBox configuration tool, and was able to exfiltrate emails and usernames, phone numbers, hashed passwords, and authentication information such as OAuth tokens and MFA data.</p>
-<p>There are few mitigations against vulnerable saas apps. You could send out one of those third-party security questionnaires asking about which standards they comply with, what are their SSDLC practices and so on, but really those are quite pointless. I&rsquo;ve seen too many vendors tell pork pies about their security practices in order to win business. The concensus, unfortunately, is that a saas app is secure &ldquo;because everyone else is using it!&rdquo;.</p>
-<p>You could perhaps check if the saas app is signed up to a bug bounty program. At least that is verifiable publicly.</p>
+<h3 id="2-compromised-saas-app">2. Compromised SaaS app</h3>
+<p>We all use so many SaaS apps in business that reliance on them has become a serious security concern. There are risks around data ownership, identity and access management, regulatory issues, vendor security standards, data loss, shadow IT, and incident response complexity. Using SaaS apps effectively widens your trust boundary to include those companys as well as your own.</p>
+<p>This greatly increases attack surface for your business, whilst making security controls more difficult to deploy. One of my favourite preventative controls is pentesting and red teaming, but both of these can be very difficult to perform when SaaS apps are involved because of legal issues testing components that don&rsquo;t belong to your business.</p>
+<p>A recent example of a vulnerable SaaS app that affected many users is the <a href="https://www.kiteworks.com/cybersecurity-risk-management/dropbox-sign-breach">2024 DropBox Sign</a> issue. A malicious actor gained access to a DropBox configuration tool, and was able to exfiltrate emails and usernames, phone numbers, hashed passwords, and authentication information such as OAuth tokens and MFA data.</p>
+<p>There are few mitigations against vulnerable SaaS apps. You could send out one of those third-party security questionnaires asking about which standards they comply with, what are their SSDLC practices and so on, but really those are quite pointless. I&rsquo;ve seen too many vendors tell pork pies about their security practices in order to win business. The concensus, unfortunately, is that a SaaS app is secure &ldquo;because everyone else is using it!&rdquo;.</p>
+<p>You could perhaps check if the SaaS app is signed up to a bug bounty program. At least that is verifiable publicly.</p>
 <h3 id="3-compromised-hardware-supplier">3. Compromised hardware supplier</h3>
 <p>This is the hot one right now due to <a href="https://www.bbc.com/news/posts/ce9jglrnmkvo">what&rsquo;s going on in Lebanon</a>. There are however precedents for this type of attack, although not quite as spectacular. In 2022 it was revealed that Supermicro motherboards contained a rice-grain sized extra chip embedded in them, which connected out to China periodically for unknown reasons&hellip; AWS and Apple have denied that any of the compromised hardware ever made it in to their cloud infrastructure.</p>
 <p>The five-eyes governments of <a href="https://www.bbc.com/news/world-us-canada-63764450">USA</a>, <a href="https://www.bbc.com/news/business-55124236">UK</a>, <a href="https://www.bbc.com/news/business-61517729">Canada</a>, <a href="https://www.smh.com.au/national/huawei-no-way-why-australia-banned-the-world-s-biggest-telecoms-firm-20210503-p57oc9.html">Australia</a> and <a href="https://www.theguardian.com/business/2018/nov/28/new-zealand-blocks-huawei-5g-equipment-on-security-concerns">New Zealand</a> have all banned Huawei devices from their critical national networks, for fear of the overbearing control the Chinese Communist Party (CCP) have over private companies in China.</p>
@@ -251,7 +251,7 @@
 <li>Threat model all systems at a business level and a technical level</li>
 <li>Install detection and response tools at the endpoint and in the browser</li>
 <li>Constantly monitor your external and internal attack surface</li>
-<li>Check if saas apps are signed up to a bug bounty program</li>
+<li>Check if SaaS apps are signed up to a bug bounty program</li>
 <li>If you&rsquo;re in government, check that hardware products have passed the Common Criteria</li>
 <li>The more paranoid amongst us could crack open hardware and take a look with a logic analyser</li>
 <li>Check the signatures for software binaries after download</li>
@@ -321,7 +321,8 @@
           </div>
           <div class="card-body px-0 pb-1">
             <h3><a class="post-title post-title-sm" href="https://wahrli.ch/post/who-is-responsible-for-security/">Who Is Responsible for Security?</a></h3>
-            <p class="mb-0 small">Imagine the late 90s… Celine Dion is playing on the radio, the waterfall model …</p>
+            <p class="mb-0 small">Everyone? I’m not so sure…
+Imagine the early 2000s… Britney Spears is playing on …</p>
             <div class="content">
               <a class="read-more-btn" href="/post/who-is-responsible-for-security/"></a>
             </div>
@@ -357,7 +358,8 @@
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">Threat modeling is dead</h3>
-            <p class="mb-0 small">STRIDE has not aged well I’ve seen first-hand the …</p>
+            <p class="mb-0 small">STRIDE has not aged well…
+I’ve seen first-hand the …</p>
           </div>
         </a>
         
@@ -373,7 +375,7 @@
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">Security requirements</h3>
-            <p class="mb-0 small">The foundation of SSDLC A few years ago I was …</p>
+            <p class="mb-0 small">A few years ago I was brought in to help with …</p>
           </div>
         </a>
         
@@ -389,7 +391,8 @@
           
           <div class="media-body ml-3">
             <h3 style="margin-top:-5px">There is no perimeter</h3>
-            <p class="mb-0 small">Let me tell you a story… A few years ago, I was …</p>
+            <p class="mb-0 small">Let me tell you a story…
+A few years ago, I was …</p>
           </div>
         </a>
         
