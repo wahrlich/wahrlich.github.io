@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2024 10:30:06 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 21:43:02 +1000</lastBuildDate>
     <atom:link href="https://wahrli.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appsec</title>
+      <link>https://wahrli.ch/categories/appsec/</link>
+      <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
+      <guid>https://wahrli.ch/categories/appsec/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MITRE ATT&amp;CK</title>
+      <link>https://wahrli.ch/categories/mitre-attck/</link>
+      <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
+      <guid>https://wahrli.ch/categories/mitre-attck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssdlc</title>
+      <link>https://wahrli.ch/categories/ssdlc/</link>
+      <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
+      <guid>https://wahrli.ch/categories/ssdlc/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Attack Library</title>
       <link>https://wahrli.ch/categories/attack-library/</link>
@@ -20,13 +41,6 @@
       <link>https://wahrli.ch/categories/attack-modeling/</link>
       <pubDate>Mon, 11 Nov 2024 10:30:06 +1000</pubDate>
       <guid>https://wahrli.ch/categories/attack-modeling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ssdlc</title>
-      <link>https://wahrli.ch/categories/ssdlc/</link>
-      <pubDate>Mon, 11 Nov 2024 10:30:06 +1000</pubDate>
-      <guid>https://wahrli.ch/categories/ssdlc/</guid>
       <description></description>
     </item>
     <item>

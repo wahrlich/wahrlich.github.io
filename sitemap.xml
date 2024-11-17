@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wahrli.ch/categories/appsec/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/mitre-attck/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/post/mitre-attack-blind-spots/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/post/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
+    <loc>https://wahrli.ch/categories/ssdlc/</loc>
+    <lastmod>2024-11-17T21:43:02+10:00</lastmod>
+  </url><url>
     <loc>https://wahrli.ch/categories/attack-library/</loc>
     <lastmod>2024-11-11T10:30:06+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/categories/attack-modeling/</loc>
-    <lastmod>2024-11-11T10:30:06+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/categories/</loc>
-    <lastmod>2024-11-11T10:30:06+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/</loc>
-    <lastmod>2024-11-11T10:30:06+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/post/</loc>
-    <lastmod>2024-11-11T10:30:06+10:00</lastmod>
-  </url><url>
-    <loc>https://wahrli.ch/categories/ssdlc/</loc>
     <lastmod>2024-11-11T10:30:06+10:00</lastmod>
   </url><url>
     <loc>https://wahrli.ch/post/what-is-an-attack-library/</loc>
