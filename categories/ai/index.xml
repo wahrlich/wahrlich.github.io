@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Gene Wahrlich</title>
+    <link>http://localhost:1313/categories/ai/</link>
+    <description>Recent content in AI on Gene Wahrlich</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 20:17:11 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Attack Bots are Coming</title>
+      <link>http://localhost:1313/post/ai-attack-bots-are-coming/</link>
+      <pubDate>Mon, 25 Nov 2024 20:17:11 +1000</pubDate>
+      <guid>http://localhost:1313/post/ai-attack-bots-are-coming/</guid>
+      <description>&lt;p&gt;The opening scene from Terminator 2 takes place on July 11, 2029. It’s eerily close to when I expect several Attack-focused AIs to be operational and effective (maybe even earlier?).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
