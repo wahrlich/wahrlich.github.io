@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware Security on Gene Wahrlich</title>
+    <link>https://wahrli.ch/categories/hardware-security/</link>
+    <description>Recent content in Hardware Security on Gene Wahrlich</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 13:06:02 +1000</lastBuildDate>
+    <atom:link href="https://wahrli.ch/categories/hardware-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to manage third-party device security?</title>
+      <link>https://wahrli.ch/post/how-to-manage-third-party-device-security/</link>
+      <pubDate>Tue, 26 Nov 2024 13:06:02 +1000</pubDate>
+      <guid>https://wahrli.ch/post/how-to-manage-third-party-device-security/</guid>
+      <description>&lt;p&gt;I’m glad to see the first stand-alone &lt;a href=&#34;https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7250&#34;&gt;cyber security legislation&lt;/a&gt; passing in to law today in Australia. The regulations around device security will be fascinating to observe as there are often conflicting incentives at work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
