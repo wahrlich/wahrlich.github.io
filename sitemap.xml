@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wahrli.ch/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/identity/</loc>
+    <loc>http://localhost:1313/categories/identity/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/mfa/</loc>
+    <loc>http://localhost:1313/categories/mfa/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/the-illusion-of-mfa/</loc>
+    <loc>http://localhost:1313/post/the-illusion-of-mfa/</loc>
     <lastmod>2024-12-09T08:47:05+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/penetration-testing/</loc>
+    <loc>http://localhost:1313/categories/penetration-testing/</loc>
     <lastmod>2024-12-03T20:22:18+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/ssdlc/</loc>
+    <loc>http://localhost:1313/categories/ssdlc/</loc>
     <lastmod>2024-12-03T20:22:18+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/the-commoditization-of-penetration-testing/</loc>
+    <loc>http://localhost:1313/post/the-commoditization-of-penetration-testing/</loc>
     <lastmod>2024-12-03T20:22:18+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/hardware-security/</loc>
+    <loc>http://localhost:1313/categories/hardware-security/</loc>
     <lastmod>2024-11-26T13:06:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/how-to-manage-third-party-device-security/</loc>
+    <loc>http://localhost:1313/post/how-to-manage-third-party-device-security/</loc>
     <lastmod>2024-11-26T13:06:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/zero-trust/</loc>
+    <loc>http://localhost:1313/categories/zero-trust/</loc>
     <lastmod>2024-11-26T13:06:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/ai/</loc>
+    <loc>http://localhost:1313/categories/ai/</loc>
     <lastmod>2024-11-25T20:17:11+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/ai-attack-bots-are-coming/</loc>
+    <loc>http://localhost:1313/post/ai-attack-bots-are-coming/</loc>
     <lastmod>2024-11-25T20:17:11+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/appsec/</loc>
+    <loc>http://localhost:1313/categories/appsec/</loc>
     <lastmod>2024-11-17T21:43:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/mitre-attck/</loc>
+    <loc>http://localhost:1313/categories/mitre-attck/</loc>
     <lastmod>2024-11-17T21:43:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/mitre-attack-blind-spots/</loc>
+    <loc>http://localhost:1313/post/mitre-attack-blind-spots/</loc>
     <lastmod>2024-11-17T21:43:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/attack-library/</loc>
+    <loc>http://localhost:1313/categories/attack-library/</loc>
     <lastmod>2024-11-11T10:30:06+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/attack-modeling/</loc>
+    <loc>http://localhost:1313/categories/attack-modeling/</loc>
     <lastmod>2024-11-11T10:30:06+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/what-is-an-attack-library/</loc>
+    <loc>http://localhost:1313/post/what-is-an-attack-library/</loc>
     <lastmod>2024-11-11T10:30:06+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/governance/</loc>
+    <loc>http://localhost:1313/categories/governance/</loc>
     <lastmod>2024-10-26T21:24:48+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/who-is-responsible-for-security/</loc>
+    <loc>http://localhost:1313/post/who-is-responsible-for-security/</loc>
     <lastmod>2024-10-26T21:24:48+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/attack-modeling/</loc>
+    <loc>http://localhost:1313/post/attack-modeling/</loc>
     <lastmod>2024-10-23T14:56:02+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/threat-modeling-is-dead/</loc>
+    <loc>http://localhost:1313/post/threat-modeling-is-dead/</loc>
     <lastmod>2024-10-22T17:58:58+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/requirements/</loc>
+    <loc>http://localhost:1313/categories/requirements/</loc>
     <lastmod>2024-10-18T06:06:40+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/ssdlc-security-requirements/</loc>
+    <loc>http://localhost:1313/post/ssdlc-security-requirements/</loc>
     <lastmod>2024-10-18T06:06:40+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/saas/</loc>
+    <loc>http://localhost:1313/categories/saas/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/there-is-no-perimeter/</loc>
+    <loc>http://localhost:1313/post/there-is-no-perimeter/</loc>
     <lastmod>2024-10-12T11:25:54+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/post/2024-year-of-the-supply-chain-attack/</loc>
+    <loc>http://localhost:1313/post/2024-year-of-the-supply-chain-attack/</loc>
     <lastmod>2024-09-23T14:19:48+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/categories/supply-chain/</loc>
+    <loc>http://localhost:1313/categories/supply-chain/</loc>
     <lastmod>2024-09-23T14:19:48+10:00</lastmod>
   </url><url>
-    <loc>https://wahrli.ch/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://wahrli.ch/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

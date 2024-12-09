@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssdlc on Gene Wahrlich</title>
-    <link>https://wahrli.ch/categories/ssdlc/</link>
+    <link>http://localhost:1313/categories/ssdlc/</link>
     <description>Recent content in Ssdlc on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 20:22:18 +1000</lastBuildDate>
-    <atom:link href="https://wahrli.ch/categories/ssdlc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/ssdlc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The commoditization of penetration testing</title>
-      <link>https://wahrli.ch/post/the-commoditization-of-penetration-testing/</link>
+      <link>http://localhost:1313/post/the-commoditization-of-penetration-testing/</link>
       <pubDate>Tue, 03 Dec 2024 20:22:18 +1000</pubDate>
-      <guid>https://wahrli.ch/post/the-commoditization-of-penetration-testing/</guid>
+      <guid>http://localhost:1313/post/the-commoditization-of-penetration-testing/</guid>
       <description>&lt;p&gt;Pentesting now seems like a dirty word.&lt;/p&gt;&#xA;&lt;p&gt;This struck me when I was reading Open AI’s recent post &lt;a href=&#34;https://openai.com/index/advancing-red-teaming-with-people-and-ai/&#34;&gt;“Advancing red teaming with people and AI”&lt;/a&gt;, where they essentially describe pentests against their LLM. Anecdotally, it seems that suppliers are rebranding their pentest services to “red team engagements” to stay relevant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MITRE ATT&amp;CK blind spots</title>
-      <link>https://wahrli.ch/post/mitre-attack-blind-spots/</link>
+      <link>http://localhost:1313/post/mitre-attack-blind-spots/</link>
       <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
-      <guid>https://wahrli.ch/post/mitre-attack-blind-spots/</guid>
+      <guid>http://localhost:1313/post/mitre-attack-blind-spots/</guid>
       <description>&lt;p&gt;There is one area of information security that is conspicuously absent from ATT&amp;amp;CK.&lt;/p&gt;&#xA;&lt;p&gt;If your tooling only applies the detections and mitigations from ATT&amp;amp;CK, then you’re missing out on some critical security telemetry. More importantly, you will be lacking visibility over critical attacks against your organisation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is an Attack Library?</title>
-      <link>https://wahrli.ch/post/what-is-an-attack-library/</link>
+      <link>http://localhost:1313/post/what-is-an-attack-library/</link>
       <pubDate>Mon, 11 Nov 2024 10:30:06 +1000</pubDate>
-      <guid>https://wahrli.ch/post/what-is-an-attack-library/</guid>
+      <guid>http://localhost:1313/post/what-is-an-attack-library/</guid>
       <description>&lt;p&gt;At it’s core, an Attack Library is a list of all possible attacks against a component of your design. We use it almost like a checklist when Attack Modeling, to determine which attacks are going to be attempted against the application or system.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who is responsible for security?</title>
-      <link>https://wahrli.ch/post/who-is-responsible-for-security/</link>
+      <link>http://localhost:1313/post/who-is-responsible-for-security/</link>
       <pubDate>Sat, 26 Oct 2024 21:24:48 +1000</pubDate>
-      <guid>https://wahrli.ch/post/who-is-responsible-for-security/</guid>
+      <guid>http://localhost:1313/post/who-is-responsible-for-security/</guid>
       <description>&lt;p&gt;Everyone? I&amp;rsquo;m not so sure&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Imagine the early 2000s&amp;hellip; Britney Spears is playing on the radio, the waterfall model is de rigueur, pentesting is not a career choice, OWASP was in its nascent stages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Attack modeling a forgotten password system</title>
-      <link>https://wahrli.ch/post/attack-modeling/</link>
+      <link>http://localhost:1313/post/attack-modeling/</link>
       <pubDate>Wed, 23 Oct 2024 14:56:02 +1000</pubDate>
-      <guid>https://wahrli.ch/post/attack-modeling/</guid>
+      <guid>http://localhost:1313/post/attack-modeling/</guid>
       <description>&lt;p&gt;This Attack Model maps potential attack vectors in a typical forgotten password system. The goal is to catalogue exploitable attack vectors along with the related security controls.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Threat modeling is dead</title>
-      <link>https://wahrli.ch/post/threat-modeling-is-dead/</link>
+      <link>http://localhost:1313/post/threat-modeling-is-dead/</link>
       <pubDate>Tue, 22 Oct 2024 17:58:58 +1000</pubDate>
-      <guid>https://wahrli.ch/post/threat-modeling-is-dead/</guid>
+      <guid>http://localhost:1313/post/threat-modeling-is-dead/</guid>
       <description>&lt;p&gt;STRIDE has not aged well&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I’ve seen first-hand the thick PDFs and Excel files that my clients have had delivered to them by consultants. Those docs have about a million data flow diagrams, giant tables with columns spanning over multiple pages, and a bunch of unactionable data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Security requirements</title>
-      <link>https://wahrli.ch/post/ssdlc-security-requirements/</link>
+      <link>http://localhost:1313/post/ssdlc-security-requirements/</link>
       <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
-      <guid>https://wahrli.ch/post/ssdlc-security-requirements/</guid>
+      <guid>http://localhost:1313/post/ssdlc-security-requirements/</guid>
       <description>&lt;p&gt;A few years ago I was brought in to help with security for a project at a large retailer in the UK. They were building out some web APIs that listed which products a customer might want to buy, based on previous orders they&amp;rsquo;d made. One of the first questions I asked was &amp;ldquo;How are we managing GDPR requirements?&amp;rdquo;. A look of concern came across everyone&amp;rsquo;s faces. The team had done a lot of work on setting up functional requirements and tests but didn&amp;rsquo;t know security and regulatory requirements were a thing. A couple weeks of rejigging the architecture and a few late nights later, the API was updated to include &amp;ldquo;right to be forgotten&amp;rdquo; functionality.&lt;/p&gt;</description>
     </item>
   </channel>

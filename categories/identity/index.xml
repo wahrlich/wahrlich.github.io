@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Identity on Gene Wahrlich</title>
-    <link>https://wahrli.ch/categories/identity/</link>
+    <link>http://localhost:1313/categories/identity/</link>
     <description>Recent content in Identity on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 08:47:05 +1000</lastBuildDate>
-    <atom:link href="https://wahrli.ch/categories/identity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The illusion of MFA</title>
-      <link>https://wahrli.ch/post/the-illusion-of-mfa/</link>
+      <link>http://localhost:1313/post/the-illusion-of-mfa/</link>
       <pubDate>Mon, 09 Dec 2024 08:47:05 +1000</pubDate>
-      <guid>https://wahrli.ch/post/the-illusion-of-mfa/</guid>
+      <guid>http://localhost:1313/post/the-illusion-of-mfa/</guid>
       <description>&lt;p&gt;MFA has one weakness that puts every user at risk.&lt;/p&gt;&#xA;&lt;p&gt;The core of authentication relies on checking three possible traits of a person:&lt;/p&gt;</description>
     </item>
     <item>
       <title>There is no perimeter</title>
-      <link>https://wahrli.ch/post/there-is-no-perimeter/</link>
+      <link>http://localhost:1313/post/there-is-no-perimeter/</link>
       <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
-      <guid>https://wahrli.ch/post/there-is-no-perimeter/</guid>
+      <guid>http://localhost:1313/post/there-is-no-perimeter/</guid>
       <description>&lt;p&gt;Let me tell you a story&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;A few years ago, I was working with a company that had a traditional approach to security. You know the type: a big firewall around the internal network, with the assumption that everything inside was safe and cozy. As long as you were “in the network,” you were trusted. They had one big Active Directory (AD) domain and everything could access everything else.&lt;/p&gt;</description>
     </item>
   </channel>
