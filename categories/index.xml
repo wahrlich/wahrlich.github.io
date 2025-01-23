@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gene Wahrlich</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://wahrli.ch/categories/</link>
     <description>Recent content in Categories on Gene Wahrlich</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2024 08:47:05 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wahrli.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identity</title>
-      <link>http://localhost:1313/categories/identity/</link>
+      <link>https://wahrli.ch/categories/identity/</link>
       <pubDate>Mon, 09 Dec 2024 08:47:05 +1000</pubDate>
-      <guid>http://localhost:1313/categories/identity/</guid>
+      <guid>https://wahrli.ch/categories/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Mfa</title>
-      <link>http://localhost:1313/categories/mfa/</link>
+      <link>https://wahrli.ch/categories/mfa/</link>
       <pubDate>Mon, 09 Dec 2024 08:47:05 +1000</pubDate>
-      <guid>http://localhost:1313/categories/mfa/</guid>
+      <guid>https://wahrli.ch/categories/mfa/</guid>
       <description></description>
     </item>
     <item>
       <title>Penetration Testing</title>
-      <link>http://localhost:1313/categories/penetration-testing/</link>
+      <link>https://wahrli.ch/categories/penetration-testing/</link>
       <pubDate>Tue, 03 Dec 2024 20:22:18 +1000</pubDate>
-      <guid>http://localhost:1313/categories/penetration-testing/</guid>
+      <guid>https://wahrli.ch/categories/penetration-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssdlc</title>
-      <link>http://localhost:1313/categories/ssdlc/</link>
+      <link>https://wahrli.ch/categories/ssdlc/</link>
       <pubDate>Tue, 03 Dec 2024 20:22:18 +1000</pubDate>
-      <guid>http://localhost:1313/categories/ssdlc/</guid>
+      <guid>https://wahrli.ch/categories/ssdlc/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware Security</title>
-      <link>http://localhost:1313/categories/hardware-security/</link>
+      <link>https://wahrli.ch/categories/hardware-security/</link>
       <pubDate>Tue, 26 Nov 2024 13:06:02 +1000</pubDate>
-      <guid>http://localhost:1313/categories/hardware-security/</guid>
+      <guid>https://wahrli.ch/categories/hardware-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero-Trust</title>
-      <link>http://localhost:1313/categories/zero-trust/</link>
+      <link>https://wahrli.ch/categories/zero-trust/</link>
       <pubDate>Tue, 26 Nov 2024 13:06:02 +1000</pubDate>
-      <guid>http://localhost:1313/categories/zero-trust/</guid>
+      <guid>https://wahrli.ch/categories/zero-trust/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/categories/ai/</link>
+      <link>https://wahrli.ch/categories/ai/</link>
       <pubDate>Mon, 25 Nov 2024 20:17:11 +1000</pubDate>
-      <guid>http://localhost:1313/categories/ai/</guid>
+      <guid>https://wahrli.ch/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Appsec</title>
-      <link>http://localhost:1313/categories/appsec/</link>
+      <link>https://wahrli.ch/categories/appsec/</link>
       <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
-      <guid>http://localhost:1313/categories/appsec/</guid>
+      <guid>https://wahrli.ch/categories/appsec/</guid>
       <description></description>
     </item>
     <item>
       <title>MITRE ATT&amp;CK</title>
-      <link>http://localhost:1313/categories/mitre-attck/</link>
+      <link>https://wahrli.ch/categories/mitre-attck/</link>
       <pubDate>Sun, 17 Nov 2024 21:43:02 +1000</pubDate>
-      <guid>http://localhost:1313/categories/mitre-attck/</guid>
+      <guid>https://wahrli.ch/categories/mitre-attck/</guid>
       <description></description>
     </item>
     <item>
       <title>Attack Library</title>
-      <link>http://localhost:1313/categories/attack-library/</link>
+      <link>https://wahrli.ch/categories/attack-library/</link>
       <pubDate>Mon, 11 Nov 2024 10:30:06 +1000</pubDate>
-      <guid>http://localhost:1313/categories/attack-library/</guid>
+      <guid>https://wahrli.ch/categories/attack-library/</guid>
       <description></description>
     </item>
     <item>
       <title>Attack Modeling</title>
-      <link>http://localhost:1313/categories/attack-modeling/</link>
+      <link>https://wahrli.ch/categories/attack-modeling/</link>
       <pubDate>Mon, 11 Nov 2024 10:30:06 +1000</pubDate>
-      <guid>http://localhost:1313/categories/attack-modeling/</guid>
+      <guid>https://wahrli.ch/categories/attack-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Governance</title>
-      <link>http://localhost:1313/categories/governance/</link>
+      <link>https://wahrli.ch/categories/governance/</link>
       <pubDate>Sat, 26 Oct 2024 21:24:48 +1000</pubDate>
-      <guid>http://localhost:1313/categories/governance/</guid>
+      <guid>https://wahrli.ch/categories/governance/</guid>
       <description></description>
     </item>
     <item>
       <title>Requirements</title>
-      <link>http://localhost:1313/categories/requirements/</link>
+      <link>https://wahrli.ch/categories/requirements/</link>
       <pubDate>Fri, 18 Oct 2024 06:06:40 +1000</pubDate>
-      <guid>http://localhost:1313/categories/requirements/</guid>
+      <guid>https://wahrli.ch/categories/requirements/</guid>
       <description></description>
     </item>
     <item>
       <title>Saas</title>
-      <link>http://localhost:1313/categories/saas/</link>
+      <link>https://wahrli.ch/categories/saas/</link>
       <pubDate>Sat, 12 Oct 2024 11:25:54 +1000</pubDate>
-      <guid>http://localhost:1313/categories/saas/</guid>
+      <guid>https://wahrli.ch/categories/saas/</guid>
       <description></description>
     </item>
     <item>
       <title>Supply Chain</title>
-      <link>http://localhost:1313/categories/supply-chain/</link>
+      <link>https://wahrli.ch/categories/supply-chain/</link>
       <pubDate>Mon, 23 Sep 2024 14:19:48 +1000</pubDate>
-      <guid>http://localhost:1313/categories/supply-chain/</guid>
+      <guid>https://wahrli.ch/categories/supply-chain/</guid>
       <description></description>
     </item>
   </channel>
